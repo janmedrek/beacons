@@ -1,3 +1,3 @@
 # beacons
 
-A flutter project scanning nearby beacons and reacting to their ids.
+A small Flutter Proof-Of-Concept for scanning nearby beacons and reacting to their ids.
